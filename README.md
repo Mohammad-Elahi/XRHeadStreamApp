@@ -29,7 +29,7 @@ This application serves as a bridge between Meta Quest headsets and Unity enviro
 - Wireless network connection
 
 **Software**
-- Meta XR SDK
+- Meta OpenXR SDK 
 - Unity 2022.3 or newer
 - Meta Quest OS 
 
