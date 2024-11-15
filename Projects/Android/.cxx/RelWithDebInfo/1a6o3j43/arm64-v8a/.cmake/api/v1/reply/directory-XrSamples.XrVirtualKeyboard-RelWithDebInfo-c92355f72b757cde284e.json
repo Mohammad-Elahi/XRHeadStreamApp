@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "XrSamples/XrVirtualKeyboard",
+		"source" : "XrSamples/XrVirtualKeyboard"
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "XrSamples/XrHandsFB",
+		"source" : "XrSamples/XrHandsFB"
+	}
+}

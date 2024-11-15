@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "XrSamples/XrSpaceWarp",
+		"source" : "XrSamples/XrSpaceWarp"
+	}
+}
