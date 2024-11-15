@@ -58,10 +58,8 @@ This project is built using:
 - Unity Integration Package
 
 ## Author
-Mohammad Elahi
-Research Assistant
-Vodafone Chair for Mobile Communications Systems
-TU Dresden
+Mohammad Elahi,
+Research Assistant at Vodafone Chair for Mobile Communications Systems, TU Dresden, 
 mohammad.elahi@mailbox.tu-dresden.de
 
 ## How to Cite
