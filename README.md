@@ -52,7 +52,6 @@ This application serves as a bridge between Meta Quest headsets and Unity enviro
 ## Development
 
 This project is built using:
-```cpp
 // Core technologies
 - Android NDK
 - Meta OpenXR SDK
@@ -67,11 +66,12 @@ mohammad.elahi@mailbox.tu-dresden.de
 
 ## How to Cite
 If you use this software in your research, please cite it as follows:
-```
+```cpp
 @software{Elahi2024XRHeadStream,
     author = {Elahi, Mohammad},
     title = {XRHeadStreamApp: Real-time head tracking streaming solution for Meta Quest headsets},
     year = {2024},
+```
     publisher = {GitHub},
     url = {https://github.com/Mohammad-Elahi/XRHeadStreamApp}
 }
